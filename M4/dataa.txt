@@ -1,0 +1,4 @@
+program to display n amsrtong number
+Checking the network cables, modem, and router
+Reconnecting to Wi-Fi
+Running Windows Network Diagnostics
